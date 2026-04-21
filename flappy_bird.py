@@ -5,15 +5,15 @@ import sys
 import pygame
 
 WIDTH, HEIGHT = 400, 600
-FPS = 60
+FPS = 69
 
 BG_COLOR = (255, 182, 193)     
 GRAVITY = 0.5                  
-FLAP_STRENGTH = -9            
+FLAP_STRENGTH = -8         
 PIPE_SPEED = 3                 
-PIPE_GAP = 160                 
+PIPE_GAP = 169                 
 PIPE_SPACING = 250             
-PIPE_WIDTH = 70                
+PIPE_WIDTH = 85                
 
 BIRD_SIZE = (56, 40)           
 
