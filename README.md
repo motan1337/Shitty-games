@@ -12,4 +12,4 @@ Flappy:
 
 https://github.com/user-attachments/assets/33c6dc3e-4451-4cab-a73a-35c7653e64d7
 
-The macos one is slighty changed since macos is really fucking shit. Funny enough 169 and 69 numbers are really magical and they fixed 50% of the code lol.
+The macos one is slighty changed since macos is really fucking shit. (now with proper fix)
